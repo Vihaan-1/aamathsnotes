@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 04 Dec 2024 17:45:52 at https://www.mrmacmaths.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*+*.jpg +*.jpeg +*.png +*.gif +*.css +*.js -mime:application/foobar
+(winhttrack -qwC2%Ps0u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.mrmacmaths.com/ -O1 "C:\Users\vihaa\Downloads\maths note web 1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*+*.jpg +*.jpeg +*.png +*.gif +*.css +*.js -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:46:22	Error: 	"Not Found" (404) at link https://www.mrmacmaths.com/c (from https://www.mrmacmaths.com/)
+17:46:22	Error: 	"Not Found" (404) at link https://www.mrmacmaths.com/t (from https://www.mrmacmaths.com/)
+17:48:59	Error: 	"Not Found" (404) at link https://www.mrmacmaths.com/feed.xml (from https://www.mrmacmaths.com/)
+17:48:59	Error: 	"Not Found" (404) at link https://www.mrmacmaths.com/decodeURIComponent(e (from https://www.mrmacmaths.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 7 seconds : 264 links scanned, 259 files written (13112829 bytes overall) [4526447 bytes received at 24205 bytes/sec], 11255866 bytes transferred using HTTP compression in 34 files, ratio 21%, 5.6 requests per connection
+(4 errors, 0 warnings, 0 messages)
